@@ -1,0 +1,27 @@
+/* Colores bandera El Oro */
+.bg-oro {
+    background-color: #FFD700 !important; /* Amarillo */
+}
+
+.bg-verde-oro {
+  background: linear-gradient(
+    90deg,
+    #00843D 0%,
+    #00843D 30%,   /* antes estaba cerca del 33% o 35% */
+    #ffea00 30%,
+    #ffea00 70%,   /* un centro un poco más ancho */
+    #00843D 70%,
+    #00843D 100%
+  );
+}
+
+
+.text-oro {
+    color: #FFD700 !important;
+}
+
+.text-verde {
+    color: #00843D !important;
+}
+
+/* Estilos adicionales */
