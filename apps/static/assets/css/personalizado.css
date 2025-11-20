@@ -6,12 +6,12 @@
 .bg-verde-oro {
   background: linear-gradient(
     90deg,
-    #00843D 0%,
-    #00843D 30%,   /* antes estaba cerca del 33% o 35% */
-    #ffea00 30%,
-    #ffea00 70%,   /* un centro un poco más ancho */
-    #00843D 70%,
-    #00843D 100%
+    #145633 0%,
+    #23784b 30%,   /* antes estaba cerca del 33% o 35% */
+    #b9ab09 30%,
+    #eadd47 70%,   /* un centro un poco más ancho */
+    #145633 70%,
+    #145633 100%
   );
 }
 
@@ -21,7 +21,8 @@
 }
 
 .text-verde {
-    color: #00843D !important;
+  font-weight: bold;
+    color: #005f2c !important;
 }
 
 /* Estilos adicionales */
